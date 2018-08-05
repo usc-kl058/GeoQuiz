@@ -1,5 +1,7 @@
 package com.bignerdranch.android.geoquiz;
 
+//By: Kenneth List
+
 public class Question {
     private int mTextResId;
     private boolean mAnswerTrue;
