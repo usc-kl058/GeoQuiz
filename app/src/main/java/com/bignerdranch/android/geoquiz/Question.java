@@ -1,6 +1,6 @@
 package com.bignerdranch.android.geoquiz;
 
-//By: Kenneth List
+//By: Kenneth List (USC ICT311)
 
 public class Question {
     private int mTextResId;
